@@ -1,0 +1,134 @@
+{
+  "personList": [
+    {
+      "statename": "maharastraCitizens",
+      "maharastraCitizens": [
+        {
+          "id": 6,
+          "firstName": "supriya",
+          "lastName": "kengar",
+          "address": {
+            "city": "mumbai",
+            "state": "maharastra",
+            "zip": 210206
+          },
+          "mobile": "9850222645"
+        },
+        {
+          "id": 7,
+          "firstName": "kavita",
+          "lastName": "borde",
+          "address": {
+            "city": "dn",
+            "state": "maharastra",
+            "zip": 210206
+          },
+          "mobile": "9750222646"
+        },
+        {
+          "id": 8,
+          "firstName": "ankita",
+          "lastName": "jadhav",
+          "address": {
+            "city": "hagri",
+            "state": "maharastra",
+            "zip": 210206
+          },
+          "mobile": "9650222647"
+        },
+        {
+          "id": 9,
+          "firstName": "mohit",
+          "lastName": "jadhav",
+          "address": {
+            "city": "dongri",
+            "state": "maharastra",
+            "zip": 410204
+          },
+          "mobile": "7850222648"
+        }
+      ]
+    },
+    {
+      "statename": "GujratCitizens",
+      "GujratCitizens": [
+        {
+          "id": 10,
+          "firstName": "rohit",
+          "lastName": "sharma",
+          "address": {
+            "city": "surat",
+            "state": "Gujrat",
+            "zip": 710204
+          },
+          "mobile": "8850222649"
+        }
+      ]
+    },
+    {
+      "statename": "HaryanaCitizens",
+      "HaryanaCitizens": [
+        {
+          "id": 11,
+          "firstName": "askita",
+          "lastName": "dseuza",
+          "address": {
+            "city": "viher",
+            "state": "Haryana",
+            "zip": 87204
+          },
+          "mobile": "1234222789"
+        }
+      ]
+    },
+    {
+      "statename": "PunjabiCitizens",
+      "PunjabiCitizens": [
+        {
+          "id": 1,
+          "firstName": "haryali",
+          "lastName": "seth",
+          "address": {
+            "city": "fghfty",
+            "state": "punjab",
+            "zip": 410206
+          },
+          "mobile": "905012985"
+        },
+        {
+          "id": 2,
+          "firstName": "gtthyrt",
+          "lastName": "grdtv",
+          "address": {
+            "city": "f vwe",
+            "state": "punjab",
+            "zip": 410206
+          },
+          "mobile": "8850222546"
+        },
+        {
+          "id": 3,
+          "firstName": "karan",
+          "lastName": "mhatre",
+          "address": {
+            "city": "gtfyhnr",
+            "state": "punjab",
+            "zip": 4177
+          },
+          "mobile": "7786222547"
+        },
+        {
+          "id": 4,
+          "firstName": "sagar",
+          "lastName": "fghvd",
+          "address": {
+            "city": "sai-nagar",
+            "state": "punjab",
+            "zip": 50987
+          },
+          "mobile": "123456789"
+        }
+      ]
+    }
+  ]
+}

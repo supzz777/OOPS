@@ -1,0 +1,39 @@
+{
+  "companylist": [
+    {
+      "companyid": 1,
+      "companyname": "TCS",
+      "companyshares": 200,
+      "companyshareprice": 2000,
+      "companytotalvalue": 400000
+    },
+    {
+      "companyid": 2,
+      "companyname": "Wipro",
+      "companyshares": 300,
+      "companyshareprice": 5000,
+      "companytotalvalue": 1500000
+    },
+    {
+      "companyid": 3,
+      "companyname": "Accenture",
+      "companyshares": 300,
+      "companyshareprice": 3000,
+      "companytotalvalue": 900000
+    },
+    {
+      "companyid": 4,
+      "companyname": "Vayana",
+      "companyshares": 200,
+      "companyshareprice": 4000,
+      "companytotalvalue": 800000
+    },
+    {
+      "companyid": 5,
+      "companyname": "BridgeLabz",
+      "companyshares": 400,
+      "companyshareprice": 6000,
+      "companytotalvalue": 2400000
+    }
+  ]
+}

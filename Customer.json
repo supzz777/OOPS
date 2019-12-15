@@ -1,0 +1,34 @@
+{
+	"customerList": [
+		{
+			"customerId": 1,
+			"customerName": "supzz",
+			"customerShares": 50,
+			"customerBalance": 100000
+		},
+		{
+			"customerId": 2,
+			"customerName": "pramila",
+			"customerShares": 45,
+			"customerBalance": 99000
+		},
+		{
+			"customerId": 3,
+			"customerName": "surbhi",
+			"customerShares": 60,
+			"customerBalance": 111000
+		},
+		{
+			"customerId": 4,
+			"customerName": "pranali",
+			"customerShares": 30,
+			"customerBalance": 84000
+		},
+		{
+			"customerId": 5,
+			"customerName": "aishwarya",
+			"customerShares": 59,
+			"customerBalance": 105020
+		}
+	]
+}

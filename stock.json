@@ -1,0 +1,30 @@
+{
+  "nupurMehendiList": [
+    {
+      "stock_name": "NupurMehendi_company",
+      "number_of_shares": 120,
+      "share_price": 5
+    }
+  ],
+  "greenMehendiList": [
+    {
+      "stock_name": "GreenMehendi_company",
+      "number_of_shares": 150,
+      "share_price": 10
+    }
+  ],
+  "lalMehendiList": [
+    { 
+      "stock_name": "LalMehendi_company",
+      "number_of_shares": 110,
+      "share_price": 20
+    }
+  ],
+  "heenaMehendiList": [
+    {
+      "stock_name": "HeenaMehendi_company",
+      "number_of_shares": 150,
+      "share_price": 10
+    }
+  ]
+}
